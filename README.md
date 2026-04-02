@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+🔥;+I'm+R+4+Y+;+CS+Student+💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+🔥;+I'm+R+4+Y+;I+learn+CS+and+programming+💻" />
 </h1>
 
 <br/>
@@ -7,7 +7,7 @@
 <div align="center">
  
  🎓 I'm currently learning **Computer Science**  
- 🧠 Mastering **C++, Go, Java**  
+ 📚 Focusing on **Go, Java, C++**  
  🔧 Building cool stuff with **Qt, Spring, FastAPI, Django**
 
 </div>
