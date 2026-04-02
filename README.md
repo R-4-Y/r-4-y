@@ -18,7 +18,7 @@
   <h4>💻 Desktop & Backend</h4>
   <!-- Backend -->
   <h4> Desktop & Backend</h4>
-  <img src="https://skillicons.dev/icons?i=qt,javafx,spring,fastapi,django" /><br><br>
+  <img src="https://skillicons.dev/icons?i=qt,SceneBuilder,spring,fastapi,django" /><br><br>
 
   <!-- DevOps -->
   <h4>🛠️ DevOps & Utils</h4>
