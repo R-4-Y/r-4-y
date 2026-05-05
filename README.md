@@ -7,8 +7,8 @@
 <div align="center">
  
  🎓 I'm currently learning **Computer Science**  
- 📚 Focusing on **Go, Java, C++**  
- 🔧 Building cool stuff with **Qt, Spring, FastAPI, Django**
+ 📚 Focusing on **Go, Java, Python, Cpp, Linux, SQL**  
+ 🔧 Building cool stuff with **Spring, Django, QT**
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,go,java,python" />
+<img src="https://skillicons.dev/icons?i=go,java,python,cpp" />
 
 ### 🧩 Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=qt,spring,fastapi,django,linux,docker,git,github,gitlab,vscode,postman" />
