@@ -5,25 +5,16 @@
 <br/>
 
 <div align="center">
- 
- 🎓 I'm currently learning **Computer Science**  
- 📚 Focusing on **Go, Java, Python, Cpp, Linux, SQL**  
- 🔧 Building cool stuff with **Spring, Django, QT**
-
 </div>
-
-<hr/>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <br/>
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=go,java,python,cpp" />
+<img src="https://skillicons.dev/icons?i=go,java,python,cpp,sql" />
 
 ### 🧩 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=qt,spring,fastapi,django,linux,docker,git,github,gitlab,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,qt,spring,django,git,vscode" />
 
 </div>
