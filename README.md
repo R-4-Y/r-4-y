@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=go,java,python,cpp,sql" />
+<img src="https://skillicons.dev/icons?i=go,java,python,c,cpp,sql" />
 
 ### 🧩 Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=linux,docker,ansible,qt,spring,django,git,vscode" />
